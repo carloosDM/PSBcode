@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\cast9\Documents\Atmel Studio\7.0\Contador4Bits\Contador4Bits\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\cast9\Documents\Atmel Studio\7.0\Contador4Bits\Contador4Bits\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\cast9\Documents\Atmel Studio\7.0\Contador4Bits\Contador4Bits\Debug\Contador4Bits.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Contador4Bits.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Contador4Bits.map</FILE>
+  <FILE>Contador4Bits.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INICIO><FILE>c:\users\cast9\Documents\Atmel Studio\7.0\Contador4Bits\Contador4Bits\main.asm</FILE><LINE>5</LINE></INICIO>
+  <PRINCIPAL><FILE>c:\users\cast9\Documents\Atmel Studio\7.0\Contador4Bits\Contador4Bits\main.asm</FILE><LINE>10</LINE></PRINCIPAL>
+  <ATRASO><FILE>c:\users\cast9\Documents\Atmel Studio\7.0\Contador4Bits\Contador4Bits\main.asm</FILE><LINE>26</LINE></ATRASO>
+  <INCREMENTAR><FILE>c:\users\cast9\Documents\Atmel Studio\7.0\Contador4Bits\Contador4Bits\main.asm</FILE><LINE>16</LINE></INCREMENTAR>
+  <ZERAR><FILE>c:\users\cast9\Documents\Atmel Studio\7.0\Contador4Bits\Contador4Bits\main.asm</FILE><LINE>22</LINE></ZERAR>
+  <L17><FILE>c:\users\cast9\Documents\Atmel Studio\7.0\Contador4Bits\Contador4Bits\main.asm</FILE><LINE>28</LINE></L17>
+  <L18><FILE>c:\users\cast9\Documents\Atmel Studio\7.0\Contador4Bits\Contador4Bits\main.asm</FILE><LINE>30</LINE></L18>
+  <L19><FILE>c:\users\cast9\Documents\Atmel Studio\7.0\Contador4Bits\Contador4Bits\main.asm</FILE><LINE>32</LINE></L19>
+ </LABELS>
+</ASSEMBLER_INFO>

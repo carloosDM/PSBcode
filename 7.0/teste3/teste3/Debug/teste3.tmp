@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\cast9\Documents\Atmel Studio\7.0\teste3\teste3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\cast9\Documents\Atmel Studio\7.0\teste3\teste3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\cast9\Documents\Atmel Studio\7.0\teste3\teste3\Debug\teste3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>teste3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>teste3.map</FILE>
+  <FILE>teste3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INICIO><FILE>C:\Users\cast9\Documents\Atmel Studio\7.0\teste3\teste3\main.asm</FILE><LINE>8</LINE></INICIO>
+  <PRINCIPAL><FILE>C:\Users\cast9\Documents\Atmel Studio\7.0\teste3\teste3\main.asm</FILE><LINE>11</LINE></PRINCIPAL>
+  <ATRASO><FILE>C:\Users\cast9\Documents\Atmel Studio\7.0\teste3\teste3\main.asm</FILE><LINE>17</LINE></ATRASO>
+  <volta><FILE>C:\Users\cast9\Documents\Atmel Studio\7.0\teste3\teste3\main.asm</FILE><LINE>19</LINE></volta>
+ </LABELS>
+</ASSEMBLER_INFO>
